@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jusromanumdedon00kaufgoog_0001.png"; bbox 0 0 2865 5613; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 646 2527 2049 2775">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 646 2527 2049 2775">
+     <span class='ocr_line' id='line_1_1' title="bbox 646 2527 2049 2639; baseline -0.008 -8"><span class='ocrx_word' id='word_1_1' title='bbox 646 2614 647 2620; x_wconf 12' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_2' title='bbox 770 2557 1256 2630; x_wconf 80' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_3' title='bbox 1310 2556 1537 2626; x_wconf 85' lang='lat' dir='ltr'>LAW</span> <span class='ocrx_word' id='word_1_4' title='bbox 1589 2527 2049 2639; x_wconf 77' lang='lat' dir='ltr'>scHooL&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1164 2704 1603 2775; baseline -0.007 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1164 2704 1603 2775; x_wconf 85' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 1196 2862 5138">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 464 1196 2862 5138">
+     <span class='ocr_line' id='line_1_3' title="bbox 464 1196 2862 5138; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 464 1196 2862 5138; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
